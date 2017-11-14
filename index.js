@@ -2,7 +2,6 @@
 const
   express = require('express'),
   app = express();
-  router = express.Router();
   http = require('http').Server(app);
   path = require('path'),
   bodyParser = require('body-parser');
