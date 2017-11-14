@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/IniOluwa/ChatSocket/issues"
   },
-  "homepage": "https://github.com/IniOluwa/ChatSocket#readme"
+  "homepage": "https://github.com/IniOluwa/ChatSocket#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
