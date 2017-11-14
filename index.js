@@ -17,7 +17,7 @@ app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(__dirname + '/public'));
 
 // Server Port
-app.set('port', 3000 || process.env.PORT);
+app.set('port', process.env.PORT || 3000);
 
 // Body Parser To Enable Getting Post Data
 app.use(bodyParser.urlencoded({ extended: true }));
