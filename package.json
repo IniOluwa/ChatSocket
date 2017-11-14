@@ -1,0 +1,22 @@
+{
+  "name": "chatsocket",
+  "version": "1.0.0",
+  "description": "Simple Chat Application Utilizing Socket IO ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IniOluwa/ChatSocket.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "IniOluwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IniOluwa/ChatSocket/issues"
+  },
+  "homepage": "https://github.com/IniOluwa/ChatSocket#readme"
+}
